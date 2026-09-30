@@ -1,0 +1,19 @@
+{
+  "name": "andrea-frontend",
+  "version": "1.0.0",
+  "description": "front end, separacao de repositorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leoozln/andrea-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leoozln/andrea-frontend/issues"
+  },
+  "homepage": "https://github.com/Leoozln/andrea-frontend#readme"
+}
